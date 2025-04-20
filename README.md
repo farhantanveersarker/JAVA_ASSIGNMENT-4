@@ -1,3 +1,5 @@
+ASSIGNMENT4 
+
 Deck of Cards - Java Program
 This repository contains a menu-driven Java program that simulates a standard deck of 52 playing cards. The program implements various functionalities to create, manipulate, and analyze a deck of cards, adhering to the specifications of a programming assignment. Each card belongs to one of four suits (Hearts, Diamonds, Clubs, Spades) and one of 13 ranks (Ace, 2-10, Jack, Queen, King).
 
